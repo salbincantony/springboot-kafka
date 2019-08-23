@@ -11,5 +11,5 @@ Download and Start Kafka server as follows:
    ` bin\windows\zookeeper-server-start.bat config\zookeeper.properties`
 
 `Now start the Kafka server:`
- `**_bin\windows\kafka-server-start.bat config\server.properties_**`
+ `bin\windows\kafka-server-start.bat config\server.properties`
 
